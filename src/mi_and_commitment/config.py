@@ -9,5 +9,3 @@ BLD: Path = ROOT.joinpath("bld").resolve()
 
 
 DOCUMENTS: Path = ROOT.joinpath("documents").resolve()
-
-TEMPLATE_GROUPS: tuple[str, ...] = ("marital_status", "highest_qualification")

@@ -9498,6 +9498,11 @@ packages:
   - pkg:pypi/mdurl?source=hash-mapping
   size: 14465
   timestamp: 1733255681319
+- pypi: ./
+  name: mi-and-commitment
+  version: 0.1.dev1+g6da4cc931.d20260310
+  sha256: c72e9e4e5bdc2bb7f978068b40e2d6ec2c272510cfbd10d213b9d76309f7c9ea
+  requires_python: '>=3.14,<3.15'
 - conda: https://conda.anaconda.org/conda-forge/noarch/mistune-3.2.0-pyhcf101f3_0.conda
   sha256: d3fb4beb5e0a52b6cc33852c558e077e1bfe44df1159eb98332d69a264b14bae
   md5: b11e360fc4de2b0035fc8aaa74f17fd6
@@ -12362,11 +12367,6 @@ packages:
   purls: []
   size: 155869
   timestamp: 1767886839029
-- pypi: ./
-  name: template-project
-  version: 0.12.2.dev11+g5d1156c04.d20260302
-  sha256: ac397862877758f8bf8e2fef6210c67845cee1477f871a975c774d77fc57ed54
-  requires_python: '>=3.14,<3.15'
 - conda: https://conda.anaconda.org/conda-forge/noarch/terminado-0.18.1-pyh6dadd2b_1.conda
   sha256: b375e8df0d5710717c31e7c8e93c025c37fa3504aea325c7a55509f64e5d4340
   md5: e43ca10d61e55d0a8ec5d8c62474ec9e
